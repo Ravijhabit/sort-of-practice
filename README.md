@@ -1,2 +1,3 @@
-Creating A readme file.
-Creating a file to have handson Git and Github.
+# student portfolio
+
+Hey! Welcome to my portfolio. It's coming up.
